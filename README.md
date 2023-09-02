@@ -1,6 +1,6 @@
-# MERN E-COMMERCE WEBSITE
+# MERN PORTFOLIO WEBSITE
 
-Hi! My name is **Vishnu Pratap**, I have created this MERN Stack Website Only with the purpose to Learn MERN Stack.
+Hi! My name is **Vishnu Pratap**, I have created this MERN Portfolio Website Only with the purpose to Learn MERN Stack.
 
 # Prerequisite
 
@@ -18,18 +18,14 @@ Make Sure to Create a config.env file in backend/config directory and add approp
 
 **Essential Variables**
 PORT=
-DB_URI =
-STRIPE_API_KEY=
-STRIPE_SECRET_KEY=
+MONGO_URI=
 JWT_SECRET=
-JWT_EXPIRE=
-COOKIE_EXPIRE=
-SMPT_SERVICE =
-SMPT_MAIL=
+SMPT_USER=
 SMPT_PASSWORD=
 SMPT_HOST=
 SMPT_PORT=
-CLOUDINARY_NAME=
+MYMAIL=
+CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 _fill each filed with your info respectively_
